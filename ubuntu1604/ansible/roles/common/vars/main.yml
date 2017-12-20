@@ -1,0 +1,20 @@
+packages:
+  - wget
+  - curl
+  - git
+  - gcc
+  - lsof
+  - openssl
+  - libssl-dev
+  - strace
+  - zip
+  - unzip
+  - gzip
+  - bzip2
+  - net-tools
+  - parted
+  - mlocate
+  - nfs-kernel-server
+  - telnet
+  - tmux
+  - vim
